@@ -1,0 +1,2 @@
+# bootstrap4-coursera
+A project built up as part of the coursera course: "Front-End Web UI Frameworks and Tools: Bootstrap 4".   This includes a range of bootstrap 4 features, and requires a small amount of javascript with jquery to run successfully.  Run on a local server with nodejs lite-server.  Includes npm scripts for preparing project for deployment and the same with task runners gulp and grunt
